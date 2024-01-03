@@ -1,0 +1,17 @@
+h2 {
+  text-align: center;
+  background-color: #1c1a1a;
+  color: aliceblue;
+}
+
+.main_container {
+  text-align: center;
+}
+
+.img {
+  display: inline-block;
+}
+
+p {
+  text-align: center;
+}

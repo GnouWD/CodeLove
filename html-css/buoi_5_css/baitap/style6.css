@@ -1,0 +1,38 @@
+body {
+  background-image: url(image/NhatHa.jpg);
+  background-size: cover;
+  background-position: center;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+}
+
+h1 {
+  color: #000000;
+}
+
+p {
+  text-align: justify;
+}
+
+.box-container {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.box {
+  width: 190px;
+  height: 50px;
+  background-color: #dc2121;
+  color: white;
+  text-align: center;
+  line-height: 50px;
+}

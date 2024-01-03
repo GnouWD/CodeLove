@@ -1,0 +1,27 @@
+.box {
+  text-align: center;
+  background-color: #3f3c3c;
+  color: aliceblue;
+  font-family: Arial;
+  width: 600px;
+  height: 80px;
+  margin-left: 200px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+.paragraph-container {
+  text-align: center;
+  background-color: #cdc8c8;
+  width: 600px;
+  height: 20px;
+  padding-bottom: 10px;
+  margin-left: 200px;
+}
+
+.paragraph {
+  display: inline-block;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 2px;
+}

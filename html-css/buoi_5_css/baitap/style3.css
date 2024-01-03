@@ -1,0 +1,27 @@
+body {
+  font-family: Arial;
+}
+h1 {
+  color: #ecec15bc;
+  margin-left: 20px;
+}
+.text1 {
+  color: #0000ff;
+  margin-left: 20px;
+}
+.text2 {
+  color: #d93e3e;
+  margin-left: 20px;
+}
+.box {
+  height: 80px;
+  width: auto;
+  background-color: #efedbb;
+}
+.box p {
+  margin-left: 20px;
+  padding-top: 10px;
+}
+.box .highlight {
+  font-weight: bold;
+}

@@ -1,0 +1,37 @@
+.container {
+  width: 500px;
+  border: 2px dashed brown;
+  /* thuoc tinh bien div thanh flex container */
+  display: flex;
+  /* can chinh cac items theo thuoc tinh */
+  justify-content: flex-start;
+  /* neu cac items qua 100% khi xuong  hang */
+  flex-wrap: wrap;
+}
+
+.box {
+  width: 250px;
+  height: 100px;
+  background: #ccc;
+  border: 1px solid lightcoral;
+  box-sizing: border-box;
+}
+
+/* 2. can  chinh cac flex items theo thuoc tinh */
+/* justify-content */
+
+.container_extra {
+  display: flex;
+  width: 500px;
+  height: 400px;
+  border: 2px dashed blue;
+
+  /* can chinh flex items theo phuonwg thang dung */
+  align-items: flex-end;
+}
+
+.box_extra {
+  width: 100px;
+  background: #ccc;
+  border: 1px solid lightcoral;
+}
