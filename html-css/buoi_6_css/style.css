@@ -19,7 +19,6 @@
 
 /* 2. can  chinh cac flex items theo thuoc tinh */
 /* justify-content */
-
 .container_extra {
   display: flex;
   width: 500px;
